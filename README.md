@@ -26,7 +26,6 @@ Each list contains tasks with their own due dates and priorities.
   - description
   - due date (optional)
   - priority
--  **Edit/update** task information
 -  **Delete tasks and lists**
 -  **Due dates**
   - per task
@@ -47,7 +46,10 @@ Each list contains tasks with their own due dates and priorities.
 ## App Showcase
 
 
-https://github.com/user-attachments/assets/aad3f799-5a4e-4f1b-93fa-4face371b2ab
+<video controls width="800">
+  <source src="https://github.com/user-attachments/assets/aad3f799-5a4e-4f1b-93fa-4face371b2ab" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 ### Dashboard – All Task Lists

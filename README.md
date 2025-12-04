@@ -1,5 +1,4 @@
-# GustavoMouraBr.github.io
-TaskHive App Showcase
+**TaskHive App Showcase**
 # TaskHive – Multi-List Task Manager
 
 TaskHive is a Java desktop application that helps you manage **multiple task lists** with due dates, priorities, and categories. It was built as a semester project for **COP 4331 – Object Oriented Software Engineering** at Florida Atlantic University.
